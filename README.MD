@@ -2,7 +2,7 @@
 
 Esse post é um ``index`` de alguns recursos encontrados durante meu estudo da linguagem ``Go``. 
 
-<img src="https://media.giphy.com/media/4N0457HBhczz0eDjrJ/giphy.gif" alt="looking around" style="zoom: 150%;" />
+<img src="assets/giphy.gif" alt="looking around" style="zoom: 150%;" />
 
 ## índice
 
@@ -87,13 +87,13 @@ Esse post é um ``index`` de alguns recursos encontrados durante meu estudo da l
 
 ## blogs/@twitter
 
-[Peter Bourgon](https://peter.bourgon.org/blog) / [@peterbourgon](https://twitter.com/peterbourgon)
-Carlisia Campos / [@carlisia](https://twitter.com/carlisia)
-[Dave Cheney](http://dave.cheney.net/) / [@davecheney](https://twitter.com/davecheney)
-[Jaana Burcu Dogan](http://golang.rakyll.org/) / [@rakyll](https://twitter.com/rakyll)
-[Jessie Frazelle](https://blog.jessfraz.com/) / [@jessfraz](https://twitter.com/jessfraz)
-[William "Bill" Kennedy ](https://www.goinggo.net/) / [@goinggodotnet](https://twitter.com/) - 
-[Brian Ketelsen](https://www.brianketelsen.com/blog) / [@bketelsen](https://twitter.com/bketelsen)
+* [Peter Bourgon](https://peter.bourgon.org/blog) / [@peterbourgon](https://twitter.com/peterbourgon)
+* Carlisia Campos / [@carlisia](https://twitter.com/carlisia)
+* [Dave Cheney](http://dave.cheney.net/) / [@davecheney](https://twitter.com/davecheney)
+* [Jaana Burcu Dogan](http://golang.rakyll.org/) / [@rakyll](https://twitter.com/rakyll)
+* [Jessie Frazelle](https://blog.jessfraz.com/) / [@jessfraz](https://twitter.com/jessfraz)
+* [William "Bill" Kennedy ](https://www.goinggo.net/) / [@goinggodotnet](https://twitter.com/) 
+* [Brian Ketelsen](https://www.brianketelsen.com/blog) / [@bketelsen]* (https://twitter.com/bketelsen)
 
 * Ou se preferir, segue uma lista pronta: 
   * [Twitter List](https://twitter.com/i/lists/1280090411642621954?s=20)
