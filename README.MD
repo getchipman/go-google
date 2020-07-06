@@ -57,13 +57,13 @@ Esse é um ``index`` de alguns recursos encontrados durante meu estudo da lingua
   * [Fonte](https://github.com/ashleymcnamara/awesome-for-beginners#go)
   * [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) *(label: exp/beginner)*
     Open-source application container engine
-  * [Apex](https://github.com/apex/apex/labels/contrib (easy)) *(label: contrib (easy))*
+  * [Apex](https://github.com/apex/apex/labels/contrib) *(label: contrib (easy))*
     Build, Deploy, and Manage AWS Lambda functions with ease
   * [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) *(label: exp/beginner)*
     A Fast and Flexible Static Site Generator built with love in GoLang
   * [CockroachDB](https://github.com/cockroachdb/cockroach/labels/E-easy) *(label: E-easy)*
     The Scalable, Survivable, Strongly-Consistent SQL Database
-  * [Helm](https://github.com/kubernetes/helm/labels/good first issue) *(label: good first issue)*
+  * [Helm](https://github.com/kubernetes/helm/labels/good) *(label: good first issue)*
     The Kubernetes Package Manager
   * [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is%3Aopen+label%3A"Up+For+Grabs"+label%3A"Difficulty%2F1%3AEasy"+label%3A"Tech%2FGo"+) *(label: Up For Grabs, Difficulty/1:Easy, Tech/Go)*
     Open source Slack-alternative in Golang and React
