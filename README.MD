@@ -1,6 +1,6 @@
 # Procurando conteúdo
 
-Esse post é um ``index`` de alguns recursos encontrados durante meu estudo da linguagem ``Go``. 
+Esse é um ``index`` de alguns recursos encontrados durante meu estudo da linguagem ``Go``. 
 
 <img src="assets/giphy.gif" alt="looking around" style="zoom: 150%;" />
 
@@ -17,11 +17,11 @@ Esse post é um ``index`` de alguns recursos encontrados durante meu estudo da l
 
 ## gopher
 
-[O mascote Gopher](https://blog.golang.org/gopher)
+* [O mascote Gopher](https://blog.golang.org/gopher)
 
-[Crie seu gopher customizado](https://gopherize.me/)
+* [Crie seu gopher customizado](https://gopherize.me/)
 
-[Gopher Artwork by Ashley MacNamara](https://github.com/ashleymcnamara/gophers)
+* [Gopher Artwork by Ashley MacNamara](https://github.com/ashleymcnamara/gophers)
 
 ## documentação
 
