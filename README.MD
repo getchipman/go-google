@@ -93,7 +93,7 @@ Esse é um ``index`` de alguns recursos encontrados durante meu estudo da lingua
 * [Jaana Burcu Dogan](http://golang.rakyll.org/) / [@rakyll](https://twitter.com/rakyll)
 * [Jessie Frazelle](https://blog.jessfraz.com/) / [@jessfraz](https://twitter.com/jessfraz)
 * [William "Bill" Kennedy ](https://www.goinggo.net/) / [@goinggodotnet](https://twitter.com/) 
-* [Brian Ketelsen](https://www.brianketelsen.com/blog) / [@bketelsen]* (https://twitter.com/bketelsen)
+* [Brian Ketelsen](https://www.brianketelsen.com/blog) / [@bketelsen](https://twitter.com/bketelsen)
 
 * Ou se preferir, segue uma lista pronta: 
   * [Twitter List](https://twitter.com/i/lists/1280090411642621954?s=20)
